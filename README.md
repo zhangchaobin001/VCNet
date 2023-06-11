@@ -14,6 +14,7 @@ python train_2020.py --name vcnet  --warm_epoch 5 --droprate 0 --stride 1 --eras
 ### Test Model
 ```
 python test_2020.py --name vcnet --gpu_ids 0,1
+```
 
 ### Evaluation
 ```
